@@ -1,0 +1,1 @@
+ID = C111 , Name = String đỏ , Status = Còn hàng, Price = 10.000 ₫ , Description = S?n ph?m m?i , Expiration = 2021-10-22 , Category = Đồ uống có ga
